@@ -17,11 +17,12 @@ their development like I did with
 [Tofu](https://github.com/calleluks/Tofu/pull/44).
 
 I studied Computer Science with a minor in Entrepreneurship at University
-College London, but I've learnt the most about building good quality systems
-from actually trying to code stuff!
+College London, but I've learnt the most about building good systems from
+actually trying to code stuff, and the most about building good companies from
+actually being part of them!
 
 See [What I'm doing now](/now).
 
 Read [my articles]({{ site.author.medium }}).
 
-Find me on [Twitter]({{ site.author.twitter }})
+Find me on [Twitter]({{ site.author.twitter }}).
